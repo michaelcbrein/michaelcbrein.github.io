@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## A Bit About Me
 
-You can use the [editor on GitHub](https://github.com/michaelcbrein/michaelcbrein.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I’m Mike. I’m Rowan University graduate with a bachelor’s degree in geography with a minor in geographic information systems and urban planning. I am interested in philosophy, politics, economics, critical theory, labor, technology, and environmental studies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently working as a temporary full-time GIS Specialist at the NJ Department of Environmental Protection, and as a part-time GIS Specialist on a project called NJ Municipal Asset Provider (NJ MAP) NJ MAP a suite of web map products with the goal of informing planning and conservation efforts with real time GIS data.
+
+I aim to provide GIS and data support to sustainable planning and policy making in the United States. Most of my interest lies in reducing waste production and energy consumption, expanding public transportation and walking and biking infrastructure, and improving the living conditions of poor and working people.
+
+Outside of the work I do, I enjoy playing guitar, attending concerts, hiking, and exploring cities.
 
 ### Markdown
 
