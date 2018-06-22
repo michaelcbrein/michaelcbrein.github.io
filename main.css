@@ -54,6 +54,10 @@ a {
     color: #000;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 
 b, strong {
     font-weight: 600;
@@ -122,6 +126,14 @@ li:hover {
     font-size: 18px;
 }
 
+.header-link:hover {
+    background-color: grey;
+}
+
+#home:hover {
+    background-color: grey;
+}
+
 #home {
     color: #000;
     display: block;
@@ -133,4 +145,8 @@ li:hover {
 
 #home, a {
     text-decoration: none;
+}
+
+#mapid {
+    margin: 25px auto;
 }
